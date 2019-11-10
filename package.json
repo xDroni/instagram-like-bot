@@ -1,0 +1,24 @@
+{
+  "name": "instagram-like-bot",
+  "version": "1.0.0",
+  "description": "Instagram like bot made for educational purposes",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer-core": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xDroni/instagram-like-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xDroni/instagram-like-bot/issues"
+  },
+  "homepage": "https://github.com/xDroni/instagram-like-bot#readme"
+}
